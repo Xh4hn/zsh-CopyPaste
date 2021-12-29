@@ -13,5 +13,5 @@ function ptf(){
 }
 
 function cpof(){
-    catn $1 | xclip -sel clip
+    cat $1 | xclip -sel clip
 }
