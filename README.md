@@ -1,6 +1,10 @@
 # zsh-CopyPaste
 
 you must first install xclip.
+```bash
+sudo pacman -S xclip <- Arch Linux
+sudo apt install xclip <- Debian
+```
 
 you should add the plugin path to your .zshrc or .bashrc.
 Example.
