@@ -7,7 +7,7 @@ sudo apt install xclip  <- Debian
 ```
 
 you should add the plugin path to your .zshrc or .bashrc.
-Example.
+Example:
 ```bash
 source /home/user/.zsh/zsh-CopyPaste/CopyPaste.plugin.zsh
 ```
