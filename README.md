@@ -15,8 +15,8 @@ It is not mandatory, since you can put the code in your .zshrc or .bashrc.
 
 Use:
 ```bash
-cpf file   <- copy file
-ctf file   <- cut file
-ptf file   <- paste file
-cpof file  <- copy content file 
+cpf file       <- copy file
+ctf file       <- cut file
+ptf file       <- paste file
+cpof file.txt  <- copy content file 
 ```
